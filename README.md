@@ -42,7 +42,7 @@ I'm a beginner backend developer exploring the world of Spring Boot, microservic
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chetan-blue?style=flat-square&logo=linkedin)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/chetan-raut-1b9000259/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chetan-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/chetan-raut-1b9000259/))
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming+Soon-green?style=flat-square)](#)
 
 ---
