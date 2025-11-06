@@ -1,6 +1,11 @@
 <!-- Premium Banner -->
 <p align="center">
-  <img src="banner.png" alt="Chetan's Premium Banner" width="95%" height="300px" />
+  <img src="banner.png" alt="Chetan's Premium Banner"
+       style="width:95%; height:300px; border-radius:20px;
+              box-shadow: 0 0 20px rgba(0, 255, 255, 0.5);
+              transition: box-shadow 0.3s ease-in-out;"
+       onmouseover="this.style.boxShadow='0 0 40px rgba(0, 255, 255, 0.8)'"
+       onmouseout="this.style.boxShadow='0 0 20px rgba(0, 255, 255, 0.5)'"/>
 </p>
 
 <!-- Typing SVG Header -->
