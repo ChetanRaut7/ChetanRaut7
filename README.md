@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Backend+Engineer+%7C+Spring+Boot+%7C+Microservices;Clean+Architecture+Evangelist;Docker+%7C+JWT+%7C+RabbitMQ+Fan" alt="Typing SVG" />
+</p>
+
 <!-- Typing SVG Header -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Aspiring+Backend+Engineer;Learning+Spring+Boot+Step+by+Step;Building+Microservices+from+Scratch;Docker+%7C+RabbitMQ+%7C+JWT+Exploration;Fresh+but+Focused+on+Growth" alt="Typing SVG" />
