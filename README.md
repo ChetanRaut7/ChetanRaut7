@@ -1,6 +1,6 @@
 <!-- Premium Banner -->
 <p align="center">
-  <img src="banner.png" alt="Chetan's Premium Banner" width="100%" height="200px" />
+  <img src="banner.png" alt="Chetan's Premium Banner" width="95%" height="100px" />
 </p>
 
 <!-- Typing SVG Header -->
